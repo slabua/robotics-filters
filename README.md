@@ -2,6 +2,8 @@ robotics-filters
 ================
 
 Salvatore La Bua (slabua@gmail.com)  
+GLB  
+MTM  
 DICGIM - University of Palermo
 
 ---
